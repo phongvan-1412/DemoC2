@@ -1,0 +1,17 @@
+[
+    {
+        "acc_id": 1,
+        "acc_email": "phong.van1412@gmail.com",
+        "acc_password": "1",
+        "acc_name": "Phong Van",
+        "acc_birth": "04/28/1996",
+        "acc_phone": "0902450647",
+
+        "acc_image": null,
+        "acc_status": true,
+
+        "role_id": null,
+
+        "stack_id": null
+    }
+]
